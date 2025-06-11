@@ -1,2 +1,2 @@
-# 15-Puzzle-Game
+# 15-Puzzle-Game Solver
 2-D puzzle game
